@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports, "__esModule", {value: true});var _react = require('@chakra-ui/react');var _reactrouterdom = require('react-router-dom');function o(n){return React.createElement(_react.Link,{as:_reactrouterdom.Link,...n},n.children)}exports.default = o;
+//# sourceMappingURL=App.js.map
