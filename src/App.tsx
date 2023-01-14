@@ -1,10 +1,12 @@
-import { Link, LinkProps } from '@chakra-ui/react'
+import { Link as ChakraLink, LinkProps as ChakraLinkProps } from '@chakra-ui/react'
 import { Link as ReactLink, LinkProps as ReactLinkProps } from 'react-router-dom'
 
-type Props = LinkProps & ReactLinkProps
+export type ClinkProps = ChakraLinkProps & ReactLinkProps
 
-export default function Clink (props: Props): JSX.Element {
+export function Clink (props: ClinkProps): JSX.Element {
   return (
-    <Link as={ReactLink} {...props}>{props.children}</Link>
+    <ChakraLink as={ReactLink} {...props}>{props.children}</ChakraLink>
   )
 }
+
+export default Clink

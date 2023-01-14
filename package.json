@@ -45,5 +45,6 @@
     "dist"
   ],
   "main": "dist/App.js",
-  "types": "dist/App.d.ts"
+  "types": "dist/App.d.ts",
+  "license": "Unlicense"
 }
