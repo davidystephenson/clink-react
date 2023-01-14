@@ -5,7 +5,7 @@ export type ClinkProps = ChakraLinkProps & ReactLinkProps
 
 export function Clink (props: ClinkProps): JSX.Element {
   return (
-    <ChakraLink as={ReactLink} {...props}>{props.children}</ChakraLink>
+    <ChakraLink as={ReactLink} {...props} />
   )
 }
 
