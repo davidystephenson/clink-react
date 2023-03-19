@@ -1,3 +1,4 @@
+import React from 'react'
 import { Link as ChakraLink, LinkProps as ChakraLinkProps } from '@chakra-ui/react'
 import { Link as ReactLink, LinkProps as ReactLinkProps } from 'react-router-dom'
 
