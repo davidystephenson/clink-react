@@ -1,6 +1,6 @@
 {
   "name": "clink-react",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.3",
