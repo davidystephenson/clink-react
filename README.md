@@ -55,6 +55,8 @@ function Navbar () {
 `Clink` can receive any props that either Chakra or React Router's `Link` can.
 The props that `Clink` can received are exported as `ClinkProps`
 
+### With `Clink`
+
 ```TSX
 import { HStack } from '@chakra-ui/react'
 import Clink, { ClinkProps } from 'clink-react'
