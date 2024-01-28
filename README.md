@@ -59,7 +59,7 @@ The props that `Clink` can received are exported as `ClinkProps`
 import { HStack } from '@chakra-ui/react'
 import Clink, { ClinkProps } from 'clink-react'
 
-function NavbarLink (props: ClinkProps ): JSX.Element {
+function NavbarLink (props: ClinkProps): JSX.Element {
   return <Clink color={blue} {...props} />
 }
 
