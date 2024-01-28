@@ -35,7 +35,7 @@ Effectively combining them in a reusable component requires boilerplate in the f
 import { HStack, Link as ChakraLink, LinkProps as ChakraLinkProps } from '@chakra-ui/react'
 import { Link as ReactRouterLink, LinkProps as ReactRouterLinkProps } from 'react-router-dom'
 
-function NavbarLink (props: LinkProps & ReactRouterLinkProps): JSX.Element {
+function NavbarLink (props: ChakraLinkProps & ReactRouterLinkProps): JSX.Element {
   return <ChakraLink as={ReactLink} color='blue' {...props} />
 }
 
