@@ -1,4 +1,4 @@
-# Clink (`C`hakra `link`)
+# `Clink` (`C`hakra `link`)
 
 ## Installation
 
