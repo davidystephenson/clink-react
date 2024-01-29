@@ -2,7 +2,9 @@
 
 ## Installation
 
+```sh
 npm install clink-react
+```
 
 ## Usage
 
