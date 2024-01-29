@@ -47,5 +47,9 @@
   ],
   "main": "dist/App.js",
   "types": "dist/App.d.ts",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidystephenson/clink-react.git"
+  }
 }

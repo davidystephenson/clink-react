@@ -26,7 +26,7 @@ import Clink from 'clink-react'
 
 ## Problem
 
-Chakra UI's `Link` component provides styles, but React Router's `Link` component provides routing functionality.
+Chakra UI's `Link` component provides styling, but React Router's `Link` component provides routing functionality.
 Effectively combining them in a reusable component requires boilerplate in the form of combining prop types or awkward wrapping, as well as aliasing one or both imports.
 
 ### Without `Clink`
