@@ -53,9 +53,10 @@ function Navbar () {
 
 ## Solution
 
-`Clink` collapses both components into one that takes union of their types.
-`Clink` can receive any props that either Chakra or React Router's `Link` can.
-The props that `Clink` can received are exported as `ClinkProps`
+`Clink` collapses both components into one.
+It takes that takes union of their props types as its props.
+It can receive any props that either Chakra or React Router's `Link` can.
+The type of the props it can receive is exported as `ClinkProps`.
 
 ### With `Clink`
 
