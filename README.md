@@ -9,7 +9,7 @@ npm install clink-react
 ## Usage
 
 ```JSX
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Clink from 'clink-react'
 
 <BrowserRouter>
