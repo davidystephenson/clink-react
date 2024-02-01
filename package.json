@@ -51,5 +51,18 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davidystephenson/clink-react.git"
-  }
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "router",
+    "route",
+    "link",
+    "routing",
+    "ui",
+    "chakra",
+    "chakra-ui",
+    "react-router",
+    "react-router-dom"
+  ]
 }
