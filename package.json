@@ -1,6 +1,6 @@
 {
   "name": "clink-react",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "description": "A simple link component for Chakra UI and React Router.",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
